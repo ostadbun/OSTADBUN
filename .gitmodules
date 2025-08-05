@@ -2,3 +2,6 @@
     path = server
     url = https://github.com/ostadbun/server
     branch = main
+[submodule "core-web"]
+	path = core-web
+	url = https://github.com/ostadbun/Web-core
