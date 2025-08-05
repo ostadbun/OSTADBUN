@@ -1,3 +1,4 @@
 [submodule "server"]
-	path = server
-	url = https://github.com/ostadbun/server
+    path = server
+    url = https://github.com/ostadbun/server
+    branch = main
